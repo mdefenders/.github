@@ -4,7 +4,9 @@ A feature-rich, end-to-end CI/CD system built as a fully functional skill-demo p
 
 ## Features
 
-- CI/CD pipelines powered by **GitHub Actions**
+- CI/CD pipelines powered by **GitHub Actions**.
+  See [README.md](https://github.com/mdefenders/it-delivers-everywhere?tab=readme-ov-file#brief-developer-onboarding-guide)
+  for details
 - Fully managed and controlled through the **GitHub UI**
 - Written in **TypeScript** with 100% test coverage
 - Supports **GitHub Flow** workflow
@@ -15,17 +17,17 @@ A feature-rich, end-to-end CI/CD system built as a fully functional skill-demo p
 - **Zero-click infrastructure deployment**
 - Integrated **Grafana dashboards**, **log shipping**, and **Slack notifications**
 - Rich workflow output, including:
-  - Service and image links
-  - Test results
-  - Security scan logs
-  - GitOps manifest links
-  - And more
+    - Service and image links
+    - Test results
+    - Security scan logs
+    - GitOps manifest links
+    - And more
 
 ## Code
 
-- [Demo Service Repository](https://github.com/mdefenders/it-delivers-everywhere)  
-- [Reusable Workflows](https://github.com/mdefenders/shared-workflows)  
-- [GitHub Actions](https://github.com/orgs/mdefenders-actions/repositories)  
-- [GitOps Monorepo](https://github.com/mdefenders/it-delivers-everywhere-gitops)  
-- [Helm Charts Repository](https://github.com/mdefenders/helmcharts)  
+- [Demo Service Repository](https://github.com/mdefenders/it-delivers-everywhere)
+- [Reusable Workflows](https://github.com/mdefenders/shared-workflows)
+- [GitHub Actions](https://github.com/orgs/mdefenders-actions/repositories)
+- [GitOps Monorepo](https://github.com/mdefenders/it-delivers-everywhere-gitops)
+- [Helm Charts Repository](https://github.com/mdefenders/helmcharts)
 - [Infrastructure as Code Repository](https://github.com/mdefenders/iac)
