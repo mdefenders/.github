@@ -8,13 +8,15 @@ A feature-rich, end-to-end CI/CD system built as a fully functional skill-demo p
   See [README.md](https://github.com/mdefenders/it-delivers-everywhere?tab=readme-ov-file#brief-developer-onboarding-guide)
   for details
 - Fully managed and controlled through the **GitHub UI**
+- Fully automated namespace-based feature branch deployments isolation with **ArgoCD AppSets**
+- **Zero-click code promotion**
+- **Zero-click infrastructure deployment**
 - Written in **TypeScript** with 100% test coverage
 - Supports **GitHub Flow** workflow
 - Three environments: **dev**, **staging**, and **production**
 - **Semantic Versioning (SemVer)** for releases
 - Infrastructure as Code for **GCP** and **OCI** (currently), using **Terraform** and **Helm charts**
-- **Zero-click service deployment**
-- **Zero-click infrastructure deployment**
+
 - Integrated **Grafana dashboards**, **log shipping**, and **Slack notifications**
 - Rich workflow output, including:
     - Service and image links
