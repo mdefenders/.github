@@ -31,4 +31,4 @@ A feature-rich, end-to-end CI/CD system built as a fully functional skill-demo p
 - [GitHub Actions](https://github.com/orgs/mdefenders-actions/repositories)
 - [GitOps Monorepo](https://github.com/mdefenders/it-delivers-everywhere-gitops)
 - [Helm Charts Repository](https://github.com/mdefenders/helmcharts)
-- [Infrastructure as Code Repository](https://github.com/mdefenders/iac)
+- [Infrastructure as Code Repository](https://github.com/mdefenders/it-delivers-everywhere-iac-oci)
