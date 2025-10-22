@@ -32,7 +32,7 @@ A feature-rich, end-to-end CI/CD system built as a fully functional skill-demo p
 - [GitOps Monorepo](https://github.com/mdefenders/it-delivers-everywhere-gitops)
 - [Helm Charts Repository](https://github.com/mdefenders/helmcharts)
 - Infrastructure as Code:
-- [AWS](https://github.com/mdefenders/it-delivers-everywhere-iac-aws)
-- [OCI](https://github.com/mdefenders/it-delivers-everywhere-iac-oci)
+  - [AWS](https://github.com/mdefenders/it-delivers-everywhere-iac-aws)
+  - [OCI](https://github.com/mdefenders/it-delivers-everywhere-iac-oci)
 
 
