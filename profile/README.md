@@ -14,7 +14,7 @@ A feature-rich, end-to-end CI/CD system built as a fully functional skill-demo p
 - Written in **TypeScript** with 100% test coverage
 - Supports **GitHub Flow** workflow
 - Three environments: **dev**, **staging**, and **production**
-- Infrastructure as Code for **AWS**, **GCP** _(under refactoring)_ and **OCI**, using **Terraform** and **Helm charts**
+- Infrastructure as Code for **AWS**, **GCP** and **OCI**, using **Terraform** and **Helm charts**
 
 - Integrated **Grafana dashboards**, **log shipping**, and **Slack notifications**
 - Rich workflow output, including:
@@ -33,6 +33,7 @@ A feature-rich, end-to-end CI/CD system built as a fully functional skill-demo p
 - [Helm Charts Repository](https://github.com/mdefenders/helmcharts)
 - Infrastructure as Code:
   - [AWS](https://github.com/mdefenders/it-delivers-everywhere-iac-aws)
+  - [GCP](https://github.com/mdefenders/it-delivers-everywhere-iac-gcp)
   - [OCI](https://github.com/mdefenders/it-delivers-everywhere-iac-oci)
 
 
